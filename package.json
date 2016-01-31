@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-bows-loader",
+  "version": "1.0.0",
+  "description": "Shared eslint config for bows-loader.",
+  "main": "index.js",
+  "keywords": [
+    "eslint",
+    "eslintrc",
+    "bows",
+    "bows-loader"
+  ],
+  "author": {
+    "name": "Yuri Feldman",
+    "url": "http://yuri.io"
+  },
+  "license": "MIT"
+}
