@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Shared eslint config for bows-loader.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arrayjam/eslint-config-bows-loader"
+  },
   "keywords": [
     "eslint",
     "eslintrc",
